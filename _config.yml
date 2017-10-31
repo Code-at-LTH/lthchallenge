@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+title: LTH Challenge
+description: A yearly competitive programming competition at LTH.
+theme: jekyll-theme-minimal
