@@ -23,3 +23,7 @@ Saturday 18 November 2017
 - 14.00 Competition ends
 - 14.15 Presentation of solutions in E:B
 - 14.45 Price Ceremony
+
+## Register
+Registration for on site participation should be done via [EventBrite](https://www.eventbrite.com/e/lth-challenge-tickets-39416162804).
+There will be an online version of the competition at [Kattis](https://lthchallenge17.kattis.com/), which anyone can register for.
