@@ -16,6 +16,8 @@ The contest will test your programming skills, and your ability to solve algorit
 
 2017 is the first year we run this contest, and it will continue yearly.
 
+LTH Challenge 2017 will be the second contest in the **[Swedish Coding Cup]**(http://codingcup.se/)
+
 ## Schedule
 Saturday 18 November 2017
 - 09.59 Introduction in E:B
