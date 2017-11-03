@@ -25,6 +25,4 @@ Saturday 18 November 2017
 - 14.45 Price Ceremony
 
 ## Register
-Registration for on site participation should be done via a [Google Form](https://services.google.com/fb/forms/lthprogrammingchallenge/).
-
-There will be an online version of the competition at [Kattis](https://lthchallenge17.kattis.com/), which anyone can register for.
+Registration for on site participation should be done via a **[Google Form](https://services.google.com/fb/forms/lthprogrammingchallenge/).**
