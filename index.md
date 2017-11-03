@@ -22,7 +22,10 @@ Saturday 18 November 2017
 - 11.00 Competition starts (We will provide lunch for you.)
 - 14.00 Competition ends
 - 14.15 Presentation of solutions in E:B
-- 14.45 Price Ceremony
+- 14.45 Prize Ceremony
+
+## Prizes
+There will be prizes for the top competitors!
 
 ## Register
-Registration for on site participation should be done via a **[Google Form](https://services.google.com/fb/forms/lthprogrammingchallenge/).**
+Registration for participation should be done via a **[Google Form](https://services.google.com/fb/forms/lthprogrammingchallenge/).**
