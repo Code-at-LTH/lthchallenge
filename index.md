@@ -31,3 +31,4 @@ There will be prizes for the top competitors!
 
 ## Register
 Registration for participation should be done via a **[Google Form](https://services.google.com/fb/forms/lthprogrammingchallenge/).**
+Note that it's possible to participate online, and that you should sign up through the same form.
