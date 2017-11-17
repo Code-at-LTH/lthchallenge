@@ -3,6 +3,6 @@ layout: default
 ---
 The organizers of LTH Challenge includes
 - Måns Magnusson (LTH)
-- Johan Sannemo  (KTH)
+- Johan Sannemo  (Google)
 - Simon Lindholm (KTH)
 - Code@LTH
