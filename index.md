@@ -1,34 +1,30 @@
 ---
 layout: default
 ---
-LTH Challenge is an induvidual programming competition aimed towards university and
-highscool students.
+LTH Challenge is an induvidual programming competition aimed towards university and highscool students.
 
+## Schedule and location
+Saturday 16 February 2019
+- 09.59 Introduction in E:1406
+- 11.00 Competition starts
+- 14.00 Competition ends
+- 14.15 Presentation of solutions in E:1406
+- 14.45 Prize Ceremony
+
+The doors to the building are locked, since it's a weekend. If you don't have access go to **[this entrance](https://goo.gl/maps/YQGmE5yuW5C2)** and call Måns on 0730946030.
+
+## Register
+The contst is hosted at **[https://lthchallenge19.kattis.com/](https://lthchallenge19.kattis.com/)**. Register by joining the competition.
+
+## General information
 You will be given a set of problems that you will try to solve as many as possible of
-as fast as possible. Your solutions are programs that will be automatically tested by a test
-server. For a given problem the testsetver will test your program on a set of some secret inputs,
-and your solution will be considered correct if it produces the correct output within a given 
-time limit of the problem.
+as fast as possible. Your solutions are programs that will be automatically tested by the judge server **[Kattis](https://open.kattis.com)**. For a given problem the testsetver will test your program on a set of some secret inputs, and your solution will be considered correct if it produces the correct output within a given time limit of the problem.
 
 You participate with your own laptop. Power sockets will be provided.
 
 The contest will test your programming skills, and your ability to solve algoritmic problems.
 
-2017 is the first year we run this contest, and it will continue yearly.
-
-LTH Challenge 2017 will be the second contest in the **[Swedish Coding Cup](http://codingcup.se/)**
-
-## Schedule
-Saturday 18 November 2017
-- 09.59 Introduction in E:B
-- 11.00 Competition starts (We will provide lunch for you.)
-- 14.00 Competition ends
-- 14.15 Presentation of solutions in E:B
-- 14.45 Prize Ceremony
+LTH Challenge 2019 will be the fourth contest in the **[Swedish Coding Cup](http://codingcup.se/)**
 
 ## Prizes
 There will be prizes for the top competitors!
-
-## Register
-Registration for participation should be done via a **[Google Form](https://services.google.com/fb/forms/lthprogrammingchallenge/).**
-Note that it's possible to participate online, and that you should sign up through the same form.

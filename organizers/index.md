@@ -3,6 +3,7 @@ layout: default
 ---
 The organizers of LTH Challenge includes
 - Måns Magnusson (LTH)
-- Johan Sannemo  (Google)
-- Simon Lindholm (KTH)
+- Jesper Öqvist (LTH)
 - Code@LTH
+
+Thanks to Simon Lindholm (KTH) for proofreading the problems!
