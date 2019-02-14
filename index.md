@@ -17,14 +17,15 @@ The doors to the building are locked, since it's a weekend. If you don't have ac
 The contst is hosted at **[https://lthchallenge19.kattis.com/](https://lthchallenge19.kattis.com/)**. Register by joining the competition.
 
 ## General information
-You will be given a set of problems that you will try to solve as many as possible of
-as fast as possible. Your solutions are programs that will be automatically tested by the judge server **[Kattis](https://open.kattis.com)**. For a given problem the testsetver will test your program on a set of some secret inputs, and your solution will be considered correct if it produces the correct output within a given time limit of the problem.
+You will be given a set of problems that you will try to solve as many as possible of as fast as possible. Your solutions are programs that will be automatically tested by the judge server **[Kattis](https://open.kattis.com)**. For a given problem the testsetver will test your program on a set of some secret inputs, and your solution will be considered correct if it produces the correct output within a given time limit of the problem.
 
 You participate with your own laptop. Power sockets will be provided.
 
 The contest will test your programming skills, and your ability to solve algoritmic problems.
 
 LTH Challenge 2019 will be the fourth contest in the **[Swedish Coding Cup](http://codingcup.se/)**
+
+**[Facebook event](https://www.facebook.com/events/2151930584864217/)**.
 
 ## Prizes
 There will be prizes for the top competitors!
