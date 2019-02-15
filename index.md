@@ -23,7 +23,7 @@ You participate with your own laptop. Power sockets will be provided.
 
 The contest will test your programming skills, and your ability to solve algoritmic problems.
 
-LTH Challenge 2019 will be the fourth contest in the **[Swedish Coding Cup](http://codingcup.se/)**
+LTH Challenge 2019 will be the third contest in the 2018-2019 **[Swedish Coding Cup](http://codingcup.se/)**.
 
 **[Facebook event](https://www.facebook.com/events/2151930584864217/)**.
 
