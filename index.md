@@ -23,7 +23,7 @@ You participate with your own laptop. Power sockets will be provided.
 
 The contest will test your programming skills, and your ability to solve algoritmic problems.
 
-LTH Challenge 2020 will be the first contest in the 2020 **[Swedish Coding Cup](http://codingcup.se/)**.
+LTH Challenge 2020 is part of the 2020 **[Swedish Coding Cup](http://codingcup.se/)**.
 
 ## Jury
 
@@ -31,9 +31,9 @@ The jury and problem authors for LTH Challenge 2020 are
 
 * Måns Magnusson
 * Maj Stenmark
-* Lars Åberg
+* Lars Åström
 * Jesper Öqvist
-* Lars Amirell Eklöf
+* Erik Amirell Eklöf
 * Thore Husfeldt
 
 ## Prizes
