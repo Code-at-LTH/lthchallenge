@@ -8,8 +8,9 @@ LTH Challenge is an individual programming competition aimed towards university 
 
 LTH Challenge 2020 takes place
 * Wednesday, 19 February 2020
-* 18:00-20:00 
-* Computer Science Department of LTH, E-Huset, Ole Römers Väg 3, Lund. 
+* 17:30-20:30 
+* Classroom E:1406, Computer Science Department of LTH, E-Huset, Ole Römers Väg 3, Lund.
+* Contest starts 18:00 sharp.
 
 If you don't have access go to **[this entrance](https://goo.gl/maps/YQGmE5yuW5C2)** and call Måns on 0730946030.
 
