@@ -21,7 +21,7 @@ You will be given a set of problems that you will try to solve as many as possib
 
 You participate with your own laptop. Power sockets will be provided.
 
-The contest will test your programming skills, and your ability to solve algoritmic problems.
+The contest will test your programming skills, and your ability to solve algorithmic problems.
 
 LTH Challenge 2020 is part of the 2020 **[Swedish Coding Cup](http://codingcup.se/)**.
 
