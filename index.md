@@ -17,7 +17,7 @@ If you don't have access go to **[this entrance](https://goo.gl/maps/YQGmE5yuW5C
 The contest is hosted at **[https://lthchallenge20.kattis.com/](https://lthchallenge20.kattis.com/)**. Register by joining the competition.
 
 ## General information
-You will be given a set of problems that you will try to solve as many as possible of as fast as possible. Your solutions are programs that will be automatically tested by the judge server **[Kattis](https://open.kattis.com)**. For a given problem the testsetver will test your program on a set of some secret inputs, and your solution will be considered correct if it produces the correct output within a given time limit of the problem.
+You will be given a set of problems that you will try to solve as many as possible of as fast as possible. Your solutions are programs that will be automatically tested by the judge server **[Kattis](https://open.kattis.com)**. For a given problem the testserver will test your program on a set of some secret inputs, and your solution will be considered correct if it produces the correct output within a given time limit of the problem.
 
 You participate with your own laptop. Power sockets will be provided.
 
