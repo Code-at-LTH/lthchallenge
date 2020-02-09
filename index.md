@@ -15,6 +15,7 @@ LTH Challenge 2020 takes place
 If you don't have access go to **[this entrance](https://goo.gl/maps/YQGmE5yuW5C2)** and call Måns on 0730946030.
 
 ## Registration
+Register for food by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSe-pOuYgbRoU2gA3wrW_omR3efdAQvllX5wCLxAbi0sFDnGbg/viewform).
 The contest is hosted at **[https://lthchallenge20.kattis.com/](https://lthchallenge20.kattis.com/)**. Register by joining the competition.
 
 ## General information
@@ -39,3 +40,7 @@ The jury and problem authors for LTH Challenge 2020 are
 
 ## Prizes
 There will be prizes for the top competitors!
+
+## Sponsors
+
+<img width="200px" src='/assets/images/vilogo.png' />
