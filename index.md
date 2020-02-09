@@ -11,6 +11,7 @@ LTH Challenge 2020 takes place
 * 17:30-21:00 
 * Classroom E:1406, Computer Science Department of LTH, E-Huset, Ole Römers Väg 3, Lund.
 * Contest starts 18:00 sharp.
+* Food will be served during the contest, probably pizzas.
 
 If you don't have access go to **[this entrance](https://goo.gl/maps/YQGmE5yuW5C2)** and call Måns on 0730946030.
 
@@ -39,7 +40,7 @@ The jury and problem authors for LTH Challenge 2020 are
 * Thore Husfeldt
 
 ## Prizes
-There will be prizes for the top competitors!
+The top 3 on site contestants will be invited to the competitive programmingevent Möja bootcamp, organized in Stockholm in May. Participation and travel will be payed for.
 
 ## Sponsors
 

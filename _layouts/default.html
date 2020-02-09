@@ -3,6 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:card" content="summary_large_image">
+  {% if page.img %}
+    <meta property="og:image" content="{{ page.img | prepend: site.url }}">
+    <meta name="twitter:image" content="{{ page.img | prepend: site.url }}">
+  {% else %}
+    <meta property="og:image" content="{{ "/assets/images/banner.png" | prepend: site.url }}">
+    <meta name="twitter:image" content="{{ "/assets/images/banner.png" | prepend: site.url }}">
+  {% endif %}
+
+    <link rel="icon" type="image/png" href="{{site.logo}}">
+
+
 
 {% seo %}
 
@@ -16,7 +29,8 @@
     <div class="wrapper">
     <header class="masthead">
       <h1 class="masthead-title">
-        <a href="{{ site.path }}/"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+        <a href="{{ site.path }}/"><img alt="LTH Challenge" width="100%" src="/assets/images/banner.png" /> </a>
+
         <small>
             <a href="{{ site.path }}/">2020</a>
         </small>
