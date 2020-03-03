@@ -6,31 +6,30 @@ LTH Challenge is an individual programming competition aimed towards university 
 
 ## 2020 Schedule and location
 
-LTH Challenge 2020 takes place
+LTH Challenge 2020 took place
 * Wednesday, 19 February 2020
-* 17:30-21:00 
-* Classroom E:1406, Computer Science Department of LTH, E-Huset, Ole Römers Väg 3, Lund.
-* Contest starts 18:00 sharp.
-* Food will be served during the contest, probably pizzas.
-
-If you don't have access go to **[this entrance](https://goo.gl/maps/YQGmE5yuW5C2)** and call Måns on 0730946030.
-
-## Registration
-Register for food by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSe-pOuYgbRoU2gA3wrW_omR3efdAQvllX5wCLxAbi0sFDnGbg/viewform).
-The contest is hosted at **[https://lthchallenge20.kattis.com/](https://lthchallenge20.kattis.com/)**. Register by joining the competition.
-
-## General information
-You will be given a set of problems that you will try to solve as many as possible of as fast as possible. Your solutions are programs that will be automatically tested by the judge server **[Kattis](https://open.kattis.com)**. For a given problem the testserver will test your program on a set of some secret inputs, and your solution will be considered correct if it produces the correct output within a given time limit of the problem.
-
-You participate with your own laptop. Power sockets will be provided.
-
-The contest will test your programming skills, and your ability to solve algorithmic problems.
+* 18:00-20:30 
 
 LTH Challenge 2020 is part of the 2020 **[Swedish Coding Cup](http://codingcup.se/)**.
 
+## Results
+
+We congratulate 
+1. Björn Magnusson
+2. Jonatan Nilsson
+3. Erik Tegler 
+
+To the top finish at LTH. They are invited to the competitive programmingevent Möja bootcamp, organized in Stockholm in May.
+
+[Full Results](https://lthchallenge20.kattis.com/standings), including off site contestants.
+
+[Solution Slides](https://docs.google.com/presentation/d/1O3fv_ypfaLWDE2NsBMO41kCSVutXIpl7x2EMl197tjg/edit?usp=sharing)
+
+[Problem data](https://gitlab.com/exoji2e/lth-challenge-19-winter/)
+
 ## Jury
 
-The jury and problem authors for LTH Challenge 2020 are
+The jury and problem authors for LTH Challenge 2020 were
 
 * Måns Magnusson
 * Maj Stenmark
@@ -39,8 +38,6 @@ The jury and problem authors for LTH Challenge 2020 are
 * Erik Amirell Eklöf
 * Thore Husfeldt
 
-## Prizes
-The top 3 on site contestants will be invited to the competitive programmingevent Möja bootcamp, organized in Stockholm in May. Participation and travel will be payed for.
 
 ## Sponsors
 
