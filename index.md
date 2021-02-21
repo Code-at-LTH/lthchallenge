@@ -4,6 +4,8 @@ layout: default
 
 LTH Challenge is an individual programming competition aimed towards university and high school students.
 
+You can register for the contest at [https://lthchallenge21.kattis.com/](https://lthchallenge21.kattis.com/)
+
 ## 2021 Schedule
 
 LTH Challenge 2021 will take place
