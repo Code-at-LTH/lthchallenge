@@ -16,6 +16,8 @@ LTH Challenge 2021 is part of the 2021 **[Swedish Coding Cup](http://codingcup.s
 
 This year's LTH Challenge will be an online only event.
 
+After the contest there will be a solution walk through at [https://itucph.zoom.us/j/68377090305](https://itucph.zoom.us/j/68377090305).
+
 
 ## Jury
 
