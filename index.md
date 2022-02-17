@@ -7,6 +7,12 @@ LTH Challenge is an individual programming competition aimed towards university 
 LTH Challenge 2022 will take place
 * Saturday, 5 March 2022
 * 13:00 - 18:00 CET (UTC+1)
+* Lecture hall E:1406 or Online
+
+## Registration
+If you plan to participate on site, at LTH, please fill in the following form [https://forms.gle/PyeqvDW3czSZ4RmN8](https://forms.gle/PyeqvDW3czSZ4RmN8) to let us know how many people will show up.
+
+The contest is organized through the automatic coding judge system Kattis at: [https://lthchallenge22.kattis.com/](https://lthchallenge22.kattis.com/). To participate you need a kattis account, which you can create at [https://open.kattis.com/login](https://open.kattis.com/login).
 
 ## 2022 Schedule
 
