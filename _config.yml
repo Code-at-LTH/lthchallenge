@@ -7,7 +7,6 @@ logo: /assets/images/code-logo-transparent.png
 collections:
   contests:
     output: true
-    permalink: /:collection/:name
 
 plugins:
   - jekyll-redirect-from
