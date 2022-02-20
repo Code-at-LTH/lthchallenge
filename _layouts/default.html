@@ -29,23 +29,17 @@
     <div class="wrapper">
     <header class="masthead">
       <h1 class="masthead-title">
-        <a href="{{ site.path }}/"><img alt="LTH Challenge" width="100%" src="/assets/images/banner.png" /> </a>
-
+        <a href="{{ site.url }}/"><img alt="LTH Challenge" width="100%" src="/assets/images/banner.png" /> </a>
+        <div>
+        {% for contest in site.contests reversed %}
+        {% if forloop.first == false %}
+            <small> | </small> 
+        {% endif %}
         <small>
-            <a href="{{ site.path }}/">2021</a>
+            <a href="{{contest.url}}">{{contest.name}}</a>
         </small>
-        <small> | </small> 
-        <small>
-            <a href="{{ site.path }}/earlieryears/2020/">2020</a>
-        </small>
-        <small> | </small> 
-        <small>
-            <a href="{{ site.path }}/earlieryears/2019/">2019</a>
-        </small>
-        <small> | </small> 
-        <small>
-            <a href="{{ site.path }}/earlieryears/2017/">2017</a>
-        </small>
+        {% endfor %}
+        </div>
       </h1>
       <p>{{ site.description | default: site.github.project_tagline }}</p>
     </header>

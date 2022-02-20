@@ -1,8 +1,10 @@
 ---
 layout: default
+permalink: /2017
+name: 2017
 ---
-# 2017
 
+## LTH Challenge 2017
 ## Schedule
 Saturday 18 November 2017
 - 09.59 Introduction in E:B

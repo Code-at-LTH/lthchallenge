@@ -1,10 +1,11 @@
 ---
 layout: default
+permalink: /2020
+name: 2020
 ---
 
-LTH Challenge is an individual programming competition aimed towards university and high school students.
-
-## 2020 Schedule and location
+## LTH Challenge 2020
+## Schedule and location
 
 LTH Challenge 2020 took place
 * Wednesday, 19 February 2020

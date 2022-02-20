@@ -1,10 +1,10 @@
 ---
 layout: default
+permalink: /2019
+name: 2019
 ---
-# LTH Challenge 2019
 
-LTH Challenge is an individual programming competition aimed towards university and highscool students.
-
+## LTH Challenge 2019
 ## Schedule and location
 Saturday 16 February 2019
 - 09.59 Introduction in E:1406
