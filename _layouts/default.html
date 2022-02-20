@@ -31,10 +31,11 @@
       <h1 class="masthead-title">
         <a href="{{ site.url }}/"><img alt="LTH Challenge" width="100%" src="/assets/images/banner.png" /> </a>
         <div>
+        <small>
+            <a href="/">{{2022}}</a>
+        </small>
         {% for contest in site.contests reversed %}
-        {% if forloop.first == false %}
-            <small> | </small> 
-        {% endif %}
+        <small> | </small> 
         <small>
             <a href="{{contest.url}}">{{contest.name}}</a>
         </small>
