@@ -4,10 +4,25 @@ name: 2022
 ---
 
 ## LTH Challenge 2022
-Will take place
-* Saturday, 5 March 2022
-* 13:00 - 18:00 CET (UTC+1)
-* Lecture hall E:1406 or Online
+Took place the 5th of March 2022.
+
+## Results
+
+Congratulations to the top 3 on site @ LTH:
+
+1. 700p Nicole Hedblom
+2. 635p David Engström
+3. 600p Teodor Bucht
+
+Congratulations also to Mårten Wiman receiving a perfect 800/800 points, winning the online contest.
+
+## Contest material
+
+- Soultion slides: [PDF](/assets/pdfs/solutions/LTHChallenge2022_solutions.pdf)
+- Full Scoreboard: [https://lthchallenge22.kattis.com/standings](https://lthchallenge22.kattis.com/standings)
+- Solutions and problem data: [ZIP](https://github.com/Code-at-LTH/lthchallenge/releases/tag/data22)
+
+
 
 ## Registration
 If you plan to participate on site, at LTH, please fill in the following form [https://forms.gle/PyeqvDW3czSZ4RmN8](https://forms.gle/PyeqvDW3czSZ4RmN8) to let us know how many people will show up.
